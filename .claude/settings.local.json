@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip:*)",
+      "Read(/private/tmp/**)",
+      "WebFetch(domain:github.com)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

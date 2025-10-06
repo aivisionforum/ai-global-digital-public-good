@@ -1,0 +1,5 @@
+This directory contains images and visual assets for the project.
+
+This folder stores images, charts, and infographics used in documentation or reports.
+Accepted formats: .png, .jpg, .svg
+Please name files descriptively (e.g., ai-governance-framework-diagram.png)
