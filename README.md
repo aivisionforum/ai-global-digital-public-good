@@ -4,8 +4,7 @@
 ---
 
 ## About This Repository  
-This repository hosts the activities and outputs of the **AI for Global Digital Public Good (AI4GDPG) Working Group**.  
-The group focuses on how **AI can serve as a global digital public good**, ensuring that the benefits of artificial intelligence are shared equitably across all societies.  
+This repository hosts the activities and outputs of the **AI for Global Digital Public Good (AI4GDPG) Working Group**.  The group focuses on how **AI can serve as a global digital public good**, ensuring that the benefits of artificial intelligence are shared equitably across all societies.  
 
 The working group adheres to the **open source spirit** — promoting transparency, inclusivity, and global collaboration in AI development and governance.  
 
