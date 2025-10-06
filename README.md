@@ -89,6 +89,17 @@ Contributions are welcome!
 
 Please review the [Contribution Guidelines](CONTRIBUTING.md) before submitting.  
 
+### Join Our Mailing List
+Stay updated with working group announcements, meetings, events, and discussions:
+
+**[Subscribe to the AI4GDPG Mailing List →](https://groups.io/g/ai4gdpg)**
+
+Join our community to receive:
+- Meeting announcements and agendas
+- Event notifications and workshops
+- Discussion threads on AI governance and public goods
+- Updates on working group deliverables and publications  
+
 ---
 
 ## License  
