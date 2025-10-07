@@ -85,20 +85,9 @@ The AI4GDPG Working Group aims to produce:
 Contributions are welcome!  
 - Open an **issue** to suggest topics, share resources, or propose initiatives.  
 - Submit a **pull request** to add reports, case studies, or frameworks.  
-- Join discussions on **AI governance, public goods, and open collaboration**.  
+- **[Join our mailing list](https://groups.io/g/ai4gdpg)** for announcements, events, and discussions on AI governance and public goods.
 
-Please review the [Contribution Guidelines](CONTRIBUTING.md) before submitting.  
-
-### Join Our Mailing List
-Stay updated with working group announcements, meetings, events, and discussions:
-
-**[Subscribe to the AI4GDPG Mailing List →](https://groups.io/g/ai4gdpg)**
-
-Join our community to receive:
-- Meeting announcements and agendas
-- Event notifications and workshops
-- Discussion threads on AI governance and public goods
-- Updates on working group deliverables and publications  
+Please review the [Contribution Guidelines](CONTRIBUTING.md) before submitting.
 
 ---
 
@@ -110,7 +99,8 @@ Any code or technical tools added will be released under the **Apache 2.0 Licens
 
 ---
 
-## Guiding Principles  
+## Guiding Principles
+
 - **Openness** – Open access, open data, and open collaboration.  
 - **Inclusivity** – Participation from all regions, especially underrepresented communities.  
 - **Sustainability** – Long-term stewardship and equitable access.  
